@@ -2,34 +2,6 @@ body{
     background:steelblue; font-family: "Google Sans Flex", sans-serif; font-optical-sizing: auto; font-weight: 400; font-style: normal; color:black
 }
 
-#modern{
-    background:khaki;
-}
-
-#recomm{
-    background:coral;
-}
-
-#real{
-    background:lightseagreen;
-}
-
-.sr-only{
-    color:rgb(0, 255, 229);
-}
-
-#archive{
- background-color:darkseagreen ;
-}
-
-#landing{
-    background-color: wheat;
-}
-
-#blog{
-    background-color:cornflowerblue
-}
-
 audio{
     width: 450px; height: 100px
 }
