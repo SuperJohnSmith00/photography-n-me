@@ -2,4 +2,4 @@
 
 ## The website can be found [here][def].
 
-[def]: https://rapant374.github.io/photography-and-me/
+[def]: https://superjohnsmith00.github.io/photography-n-me/
